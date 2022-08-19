@@ -14,6 +14,7 @@ horizontal: false
   <h2 class="category">2022</h2>
   <div class="container">
     <div class="row row-cols-2">
+      ayo
     </div>
   </div>
   <div class="grid">
