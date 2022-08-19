@@ -9,9 +9,10 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<h2 class="year">2020/h2>
+<h2 class="year">2020</h2>
   
-<h2 class="year">2021/h2>
+<h2 class="year">2021</h2>
 
-<h2 class="year">2022/h2>
+<h2 class="year">2022</h2>
+  
 </div>
