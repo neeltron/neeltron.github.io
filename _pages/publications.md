@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: publications and patents
 description: 
 nav: true
 nav_order: 1
@@ -19,9 +19,20 @@ nav_order: 1
     Indian Patent Office</b>
 <h2 class="year">2020</h2>
   Neel Adwani <br>EsoCipher: An Instance of Hybrid Cryptography<br><b>viXra (December 2020) <a href = "https://doi.org/10.13140/RG.2.2.33286.40000">https://doi.org/10.13140/RG.2.2.33286.40000</a></b>
- <h2 class="year">2020</h2>
-  Sachi Choudhary, Neel Adwani, Gauraang Sharma, Prashant Shukla <br>An Accident Detection System and Method<br><b>Application Number: 202011031956<br>Indian Patent Office
-  
-  </b>
+<h2 class="year">2020</h2>
+  Sachi Choudhary, Neel Adwani, Gauraang Sharma, Prashant Shukla <br>
+  An Accident Detection System and Method<br>
+  <b>Application Number: 202011031956<br>
+    Indian Patent Office</b>
+<h2 class="year">2020</h2>
+  Shubhi Sharma, Neel Adwani<br>
+  Sanitizing Apparatus and method for Dispensing Sanitizer Solution<br>
+  <b>Application Number: 202011020418<br>
+    Indian Patent Office</b>
+<h2 class="year">2020</h2>
+  Dr. Amit Verma, Neel Adwani, Dr. TP Singh, Rohit Tanwar, Anupam Singh, Nitin Uniyal<br>
+  Vehicle Theft Recovery System<br>
+  <b>Application Number: 202011012771<br>
+    Indian Patent Office</b>
   
 </div>
