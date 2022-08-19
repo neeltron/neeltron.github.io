@@ -12,7 +12,12 @@ nav_order: 1
 <h2 class="year">2020</h2>
   
 <h2 class="year">2021</h2>
-Shukla, A., Adwani, N., et al. Geospatial analysis for natural disaster estimation through arduino and node MCU approach.<br>GeoJournal (2021). https://doi.org/10.1007/s10708-021-10496-1
+Shukla, A., Adwani, N., et al. <br>Geospatial analysis for natural disaster estimationthrough arduino and node MCU approach.<br>GeoJournal (2021). https://doi.org/10.1007/s10708-021-10496-1<br>
+
+  Sachi Choudhary, Neel Adwani, Prashant Shukla, Rashmi Sharma<br>
+  System and Method for Contact Less Disinfection of Public Places<br>
+  <b>Patent: Application Number: 202111039747 A</b><br>
+  Indian Patent Office
 <h2 class="year">2022</h2>
   
 </div>
