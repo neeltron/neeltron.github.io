@@ -7,11 +7,10 @@ importance: 1
 category: 2022
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Design/Build/Fly, or DBF, is a radio-controlled aircraft competition sponsored by the American institute of Aeronautics and Astronautics (AIAA), Cessna Aircraft Company, and Raytheon Missile Systems. The competition is intended to challenge the AIAA student branches of each university to design, build, and fly a remote controlled airplane that can complete specific ground and flight missions. Additionally, the teams are required to submit a comprehensive design report detailing the most important aspects of their designs.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The problem statement for DBF'22 was to design, build and test an aircraft to deliver vaccination components. Missions included deployment of the aircraft, staging of vaccination syringes, and delivery of environmentally sensitive vaccine vial packages.
+
 
     ---
     layout: page
@@ -43,9 +42,7 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+As a part of <a href = "https://instagram.com/teamagastya">Team Agastya</a>, my role was to work on the Design aspect of the aircraft and prepare the CAD Models, along with the drawings for the design report, which can be seen below. During the fly-off, I was the ground crew member, representing the University of Petroleum and Energy Studies, India at Wichita, Kansas. 
 
 
 <div class="row justify-content-sm-center">
