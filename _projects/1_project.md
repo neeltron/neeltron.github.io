@@ -7,45 +7,50 @@ importance: 1
 category: 2022
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Design/Build/Fly, or DBF, is a radio-controlled aircraft competition sponsored by the American institute of Aeronautics and Astronautics (AIAA), Cessna Aircraft Company, and Raytheon Missile Systems. The competition is intended to challenge the AIAA student branches of each university to design, build, and fly a remote controlled airplane that can complete specific ground and flight missions. Additionally, the teams are required to submit a comprehensive design report detailing the most important aspects of their designs.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The problem statement for DBF'22 was to design, build and test an aircraft to deliver vaccination components. Missions included deployment of the aircraft, staging of vaccination syringes, and delivery of environmentally sensitive vaccine vial packages.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+As a part of <a href = "https://instagram.com/teamagastya">Team Agastya</a>, my role was to work on the Design aspect of the aircraft and prepare the CAD Models, along with the drawings for the design report, which can be seen below. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/5.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    This image can also have a caption. It's like magic.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/6.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/7.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/8.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+During the fly-off, I was the ground crew member, representing the University of Petroleum and Energy Studies, India at Wichita, Kansas. To get acquainted with our Fly-off Journey, <a href = "https://www.instagram.com/p/CfnmnlwvvS4/">click here</a>.
+
+TL;DR We achieved 7th place in the Proposal phase, while in the designed report phase, we got the order 10th and in the fly-off, we stood 43rd!
+
+
 
 
 <div class="row justify-content-sm-center">
