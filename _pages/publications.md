@@ -12,7 +12,7 @@ nav_order: 1
 <h2 class="year">2020</h2>
   
 <h2 class="year">2021</h2>
-
+Shukla, A., Adwani, N., et al. Geospatial analysis for natural disaster estimation through arduino and node MCU approach.<br>GeoJournal (2021). https://doi.org/10.1007/s10708-021-10496-1
 <h2 class="year">2022</h2>
   
 </div>
