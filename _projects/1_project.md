@@ -19,7 +19,7 @@ As a part of <a href = "https://instagram.com/teamagastya">Team Agastya</a>, my 
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Three-view drawing of the aircraft, along with dimensions.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -27,7 +27,7 @@ As a part of <a href = "https://instagram.com/teamagastya">Team Agastya</a>, my 
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Structural arrangement of the aircraft, along with its subsystems.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -35,7 +35,7 @@ As a part of <a href = "https://instagram.com/teamagastya">Team Agastya</a>, my 
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Layout of the aircraft and its subsystems.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -43,7 +43,7 @@ As a part of <a href = "https://instagram.com/teamagastya">Team Agastya</a>, my 
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Arrangement and accommodation of the payload inside the fuselage.
 </div>
 
 During the fly-off, I was the ground crew member, representing the University of Petroleum and Energy Studies, India at Wichita, Kansas. To get acquainted with our Fly-off Journey, <a href = "https://www.instagram.com/p/CfnmnlwvvS4/">click here</a>.
