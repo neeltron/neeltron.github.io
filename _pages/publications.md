@@ -15,9 +15,13 @@ nav_order: 1
 <h2 class="year">2021</h2>
   Sachi Choudhary, Neel Adwani, Prashant Shukla, Rashmi Sharma<br>
   System and Method for Contact Less Disinfection of Public Places<br>
-  <b>Patent: Application Number: 202111039747 A<br>
+  <b>Application Number: 202111039747 A<br>
     Indian Patent Office</b>
 <h2 class="year">2020</h2>
   Neel Adwani <br>EsoCipher: An Instance of Hybrid Cryptography<br><b>viXra (December 2020) <a href = "https://doi.org/10.13140/RG.2.2.33286.40000">https://doi.org/10.13140/RG.2.2.33286.40000</a></b>
+ <h2 class="year">2020</h2>
+  Sachi Choudhary, Neel Adwani, Gauraang Sharma, Prashant Shukla <br>An Accident Detection System and Method<br><b>Application Number: 202011031956<br>Indian Patent Office
+  
+  </b>
   
 </div>
