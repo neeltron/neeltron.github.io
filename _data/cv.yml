@@ -4,81 +4,48 @@
     - name: Full Name
       value: Albert Einstein
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 19th January 2001
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Bachelor of Technology
+      institution: University of Petroleum and Energy Studies, Dehradun, India
+      year: 2019-2023
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Intern
+      institution: Robotics Research Centre, International Institute of Information Technology, Hyderabad
+      year: June 15th 2022 - Sept 15th 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
+        - Implementing a functional robotic arm for visual servoing on an Unmanned Aerial Vehicle.
+        - Developing a framework for safe landing of Unmanned Aerial Vehicles, based on images from depth camera.
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
+    - title: <a href="https://github.com/neeltron/Brain-Controlled-Robotic-Joint">Brain Controlled Robotic Joint</a>
+      year: 2021
+      description: Amputees face physical and emotional challenges in their day-to-day life, and their struggle is immeasurable. To solve this problem, I'm presenting a robotic joint, that can be used as a limb (once combined with prosthetics) and can help them control an artificial arm or leg using their brain. Although the headset contains only a single channel, it can still be a stepping stone to cutting-edge technology.
+    - title: <a href="https://github.com/neeltron/QuickSesh">QuickSesh</a>
+      year: 2021
+      description: An online tool to create or join random study sessions, based on Jitsi Meet. (basically omegle for education)
+    - title: <a href="https://github.com/neeltron/PresentQuick">PresentQuick</a>
+      year: 2021
+      description: PresentQuick is a tool that can convert a long article or research paper into a simple presentation, that makes it easier to understand. It uses NLP to analyze long pieces of content and recollects the most important sentences and breaks them down into slides. This web application can be used either for presenting something to the audience of even to get a simple understanding of a complex topic.
+    - title: <a href="https://github.com/neeltron/Character.io">Character.io</a>
+      year: 2022
+      description: Character.io loads a new set of cartoon characters whenever the page is reloaded. If you don't like that set, just press the space bar and it'll load a new one for you! The algorithm behind character.io uses the power of generative adversarial networks, which are nothing but just two neural networks competing against each other. Where the generator would generate a character set, and the discriminator would evaluate if the character set is good or not. Both of them are trained against each other.
+      
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
+        - First overall at Hack the Runway by Major League Hacking
         - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
+    
 - title: Academic Interests
   type: nested_list
   contents:
