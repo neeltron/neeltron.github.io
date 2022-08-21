@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Neel Adwani
     - name: Date of Birth
       value: 19th January 2001
 
@@ -18,7 +18,7 @@
   contents:
     - title: Research Intern
       institution: Robotics Research Centre, International Institute of Information Technology, Hyderabad
-      year: June 15th 2022 - Sept 15th 2022
+      year: June - Sept 2022
       description:
         - Implementing a functional robotic arm for visual servoing on an Unmanned Aerial Vehicle.
         - Developing a framework for safe landing of Unmanned Aerial Vehicles, based on images from depth camera.
@@ -43,22 +43,46 @@
   contents:
     - year: 2022
       items: 
-        - First overall at Hack the Runway by Major League Hacking
-        - Matteucci Medal
-    
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - First Overall at Hack the Runway by Major League Hacking
+        - Represented the University of Petroleum and Energy Studies at AIAA DBF 2022
+    - year: 2021
       items:
-        - Description 1.
-        - Description 2.
+        - First Overall at BostonHacks by Boston University, MA
+        - Best Social Impact Hack at SBUHacks by Stony Brook University, NY
+        - Best Re-Think Automotive Hack and Most Creative use of Twilio at PennApps by University of Pennsylvania, PA
+        - Best Hardware Hack at University of California, Irvine, CA
+        - First Overall at Social Entrepreneurship Competition by the American University in Cairo, Egypt
+        - Third Overall at Future Health Hackathon 2071 by the Ministry of Health and Prevention, UAE
+        - Best Web Monetization Hack at BorderHacks by University of Windsor, Canada
+        - Best Hardware Hack at Hack the Earth by Hack the Earth Foundation, Canada
+        - First Overall at Surfs up Hacks by Major League Hacking
+        - First Overall at Hack-ccessible by Major League Hacking
+        - First Overall at Hack at Home II by Major League Hacking
+        - Second Overall at Neighborhood Hacks by Major League Hacking
+        - Third Overall at Bon Voyage Hacks by Major League Hacking
+        - Best Undercover Hack at Agent:Hacker by Major League Hacking
+        - Best Hack for the Wild at WildHacks by Major League Hacking
+        - Most SharkHacks Shark Hack at SharkHacks3 by Major League Hacking
+        - Best Use of Google Cloud at Hacky Birthday MLH by Major League Hacking
+        - Best Hardware Hack at Mental Health Hacks by Major League Hacking
+    - year: 2020
+      items:
+        - Second Overall at HackBMU by BML Munjal University, Gurugram
+        - Best Hack for Natural Disasters at Hackbout by Nitte Meenakshi Institute of Technology, Bengaluru
+    
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
