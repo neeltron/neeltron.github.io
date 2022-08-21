@@ -5,7 +5,7 @@ permalink: /competitions/
 description: 
 nav: true
 nav_order: 2
-display_categories: [2022, 2021, 2020]
+display_categories: [2022, 2021]
 horizontal: false
 ---
 
