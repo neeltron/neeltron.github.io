@@ -4,7 +4,7 @@ title: AppArel
 description: Hack the Runway
 img: 
 importance: 1
-category: 2023 Season
+category: 2022 Season
 ---
 
 In Hack the Runway, I teamed up with ______ and ______, and developed AppArel, which is a tool that uses Generative Adversarial Networks to generate new clothing designs. The demo video is embedded below!<br>
