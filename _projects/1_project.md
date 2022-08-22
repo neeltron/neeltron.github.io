@@ -56,7 +56,7 @@ TL;DR We achieved 7th rank in the Proposal phase, while in the designed report p
     </div>
 </div>
 <div class="caption">
-    Aircraft in the final staging area.
+    Aircraft (and me :3) in the final staging area.
 </div>
 
 <div class="row">
