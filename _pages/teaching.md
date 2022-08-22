@@ -5,7 +5,7 @@ title: hackathons
 description: 
 nav: true
 nav_order: 5
-display_categories: [2022, 2021]
+display_categories: [2023 Season, 2022 Season, 2021 Season, 2020 Season]
 horizontal: false
 ---
 
