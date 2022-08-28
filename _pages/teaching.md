@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /hackathons/
-title: hackathons
+permalink: /projects/
+title: projects
 description: 
 nav: true
 nav_order: 5
-display_categories: [2022 Season, 2021 Season, 2020 Season]
+display_categories: [Research, Launched + Open Source, 2022 Season Hackathons, 2021 Season Hackathons, 2020 Season Hackathons]
 horizontal: false
 ---
 
