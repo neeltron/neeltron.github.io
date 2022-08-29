@@ -3,7 +3,7 @@ layout: page
 title: Future Health Hackathon 2071
 description: MOHAP, UAE
 img: assets/img/2.png
-importance: 2
+importance: 5
 category: [2021, 2021 Season Hackathons]
 ---
 
