@@ -4,7 +4,7 @@ title: Future Health Hackathon 2071
 description: MOHAP, UAE
 img: assets/img/2.png
 importance: 2
-category: 2021, 2021 Season Hackathons
+category: [2021, 2021 Season Hackathons]
 ---
 
 In the Future Health Hackathon 2071 by the Ministry of Health and Prevention, UAE, we secured third place for developing Neureno! The demo video is attached below.
