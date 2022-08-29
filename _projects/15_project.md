@@ -2,9 +2,9 @@
 layout: page
 title: Sharktainer
 description: SharkHacks3
-img: 
+img: 2022-9.png
 importance: 8
-category: 2022 Season
+category: 2022 Season Hackathons
 ---
 
 At SharkHacks3, I teamed up with Tiffany Trinh, Aashi Shah, and Bailey Luu, and developed Sharktainer, a discord bot for your sharky needs.<br>

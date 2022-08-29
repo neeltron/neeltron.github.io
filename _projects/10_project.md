@@ -2,9 +2,9 @@
 layout: page
 title: HearAssist
 description: BostonHacks
-img: 
+img: 2022-4.png
 importance: 4
-category: 2022 Season
+category: 2022 Season Hackathons
 ---
 
 In BostonHacks, I developed HearAssist, a tool to enhance the real-life experience for auditory-impaired individuals. The demo video is embedded below!<br>

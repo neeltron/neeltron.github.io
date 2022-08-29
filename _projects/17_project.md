@@ -2,7 +2,7 @@
 layout: page
 title: Locate my Luggage
 description: Bon Voyage Hacks
-img: 
+img: 2022-11.png
 importance: 10
 category: 2022 Season
 ---

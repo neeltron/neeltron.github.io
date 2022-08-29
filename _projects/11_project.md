@@ -2,9 +2,9 @@
 layout: page
 title: CryptoMed
 description: BorderHacks
-img: 
+img: 2022-5.png
 importance: 5
-category: 2022 Season
+category: 2022 Season Hackathons
 ---
 
 At BorderHacks, I developed CryptoMed, a web app that uses Cryptography to secure medical records and prescriptions. The demo video is embedded below!<br>

@@ -2,9 +2,9 @@
 layout: page
 title: DigiDrop
 description: Agent:Hacker
-img: 
+img: 2022-2.png
 importance: 2
-category: 2022 Season
+category: 2022 Season Hackathons
 ---
 
 In Agent:Hacker, I teamed up with Mayank Jha, and developed DigiDrop, which is a quick way to deploy dead drops on the web. The demo video is embedded below!<br>

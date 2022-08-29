@@ -2,9 +2,9 @@
 layout: page
 title: WildAware
 description: WildHacks
-img: 
+img: 2022-3.png
 importance: 3
-category: 2022 Season
+category: 2022 Season Hackathons
 ---
 
 In WildHacks, I teamed up with Avinash Upadhyaya, and developed WildAware, which is an app that logs animal sightings from an IoT integrated setup and the people living near forests. The demo video is embedded below!<br>

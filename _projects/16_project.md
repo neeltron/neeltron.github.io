@@ -2,7 +2,7 @@
 layout: page
 title: AltSight
 description: Hacky Birthday MLH
-img: 
+img: 2022-10.png
 importance: 9
 category: 2022 Season
 ---

@@ -2,9 +2,9 @@
 layout: page
 title: HoloNet
 description: PennApps
-img: 
+img: 2022-7.png
 importance: 7
-category: 2022 Season
+category: 2022 Season Hackathons
 ---
 
 At PennApps, I teamed up with Bailey Luu, Shrikrushana Pingale, and Ahelee Bhattacharya, and developed HoloNet, an IoT based Network & Newsletter to alert people about Natural Disasters (Earthquakes and Wildfires) via SMS and Emails in advance.<br>

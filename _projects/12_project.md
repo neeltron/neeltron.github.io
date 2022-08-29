@@ -2,9 +2,9 @@
 layout: page
 title: The Good Samaritan
 description: HackSBU
-img: 
+img: 2022-6.png
 importance: 6
-category: 2022 Season
+category: 2022 Season Hackathons
 ---
 
 At HackSBU, I developed The Good Samaritan, a platform-independent application to connect organizations and entities with willing volunteers. The demo video is embedded below!<br>

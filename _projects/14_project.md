@@ -2,9 +2,9 @@
 layout: page
 title: Beach, please
 description: Surfs up Hacks
-img: 
+img: 2022-8.png
 importance: 8
-category: 2022 Season
+category: 2022 Season Hackathons
 ---
 
 At Surfs up Hacks, I teamed up with Tiffany Trinh, Deblina Chattopadhyay, and Avijit Das, and developed Beach, please, a rover to cleanse beaches and decrease impact of plastic on the environment.<br>
