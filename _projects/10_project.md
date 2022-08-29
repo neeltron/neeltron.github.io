@@ -7,7 +7,7 @@ importance: 4
 category: 2022 Season Hackathons
 ---
 
-In BostonHacks, I developed HearAssist, a tool to enhance the real-life experience for auditory-impaired individuals. The demo video is embedded below!<br>
+At BostonHacks, I developed HearAssist, a tool to enhance the real-life experience for auditory-impaired individuals. The demo video is embedded below!<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6xZvYoPKiVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
