@@ -2,7 +2,7 @@
 layout: page
 title: Sharktainer
 description: SharkHacks3
-img: 2022-9.png
+img: assets/img/2022-9.png
 importance: 8
 category: 2022 Season Hackathons
 ---

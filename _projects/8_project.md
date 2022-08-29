@@ -2,7 +2,7 @@
 layout: page
 title: DigiDrop
 description: Agent:Hacker
-img: 2022-2.png
+img: assets/img/2022-2.png
 importance: 2
 category: 2022 Season Hackathons
 ---

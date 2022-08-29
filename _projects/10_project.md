@@ -2,7 +2,7 @@
 layout: page
 title: HearAssist
 description: BostonHacks
-img: 2022-4.png
+img: assets/img/2022-4.png
 importance: 4
 category: 2022 Season Hackathons
 ---

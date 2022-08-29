@@ -2,7 +2,7 @@
 layout: page
 title: WildAware
 description: WildHacks
-img: 2022-3.png
+img: assets/img/2022-3.png
 importance: 3
 category: 2022 Season Hackathons
 ---

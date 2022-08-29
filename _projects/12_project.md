@@ -2,7 +2,7 @@
 layout: page
 title: The Good Samaritan
 description: HackSBU
-img: 2022-6.png
+img: assets/img/2022-6.png
 importance: 6
 category: 2022 Season Hackathons
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: AppArel
 description: Hack the Runway
-img: 2022-1.png
+img: assets/img/2022-1.jpg
 importance: 1
 category: 2022 Season Hackathons
 ---

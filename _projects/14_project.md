@@ -2,7 +2,7 @@
 layout: page
 title: Beach, please
 description: Surfs up Hacks
-img: 2022-8.png
+img: assets/img/2022-8.png
 importance: 8
 category: 2022 Season Hackathons
 ---

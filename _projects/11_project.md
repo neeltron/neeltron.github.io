@@ -2,7 +2,7 @@
 layout: page
 title: CryptoMed
 description: BorderHacks
-img: 2022-5.png
+img: assets/img/2022-5.png
 importance: 5
 category: 2022 Season Hackathons
 ---

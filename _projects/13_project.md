@@ -2,7 +2,7 @@
 layout: page
 title: HoloNet
 description: PennApps
-img: 2022-7.png
+img: assets/img/2022-7.png
 importance: 7
 category: 2022 Season Hackathons
 ---
