@@ -4,7 +4,7 @@ title: Locate my Luggage
 description: Bon Voyage Hacks
 img: 2022-11.png
 importance: 10
-category: 2022 Season
+category: 2022 Season Hackathons
 ---
 
 At Bon Voyage Hacks, I teamed up with Avinash Upadhyaya and developed Locate my Luggage, a compact setup with an application to track your luggage.<br>

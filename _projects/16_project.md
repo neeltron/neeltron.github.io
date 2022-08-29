@@ -4,7 +4,7 @@ title: AltSight
 description: Hacky Birthday MLH
 img: 2022-10.png
 importance: 9
-category: 2022 Season
+category: 2022 Season Hackathons
 ---
 
 At Hacky Birthday MLH, I developed AltSight, a customized wearable assistant for the visually impaired.<br>
