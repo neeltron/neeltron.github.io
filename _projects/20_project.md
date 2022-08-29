@@ -2,7 +2,7 @@
 layout: page
 title: Brain Controlled Robotic Joint
 description: Hack-ccessible + VenusHacks
-img: assets/img/2021-3.png
+img: assets/img/2021-3.jpeg
 importance: 3
 category: 2021 Season Hackathons
 ---

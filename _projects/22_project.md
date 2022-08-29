@@ -2,7 +2,7 @@
 layout: page
 title: MindRealm
 description: Mental Health Hacks
-img: assets/img/2021-5.png
+img: 
 importance: 5
 category: 2021 Season Hackathons
 ---

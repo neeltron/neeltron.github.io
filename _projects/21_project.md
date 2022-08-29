@@ -2,7 +2,7 @@
 layout: page
 title: SmartBin
 description: Hack At Home II
-img: assets/img/2021-4.png
+img: assets/img/2021-4.jpeg
 importance: 4
 category: 2021 Season Hackathons
 ---

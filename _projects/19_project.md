@@ -2,7 +2,7 @@
 layout: page
 title: SafeMail
 description: Neighborhood Hacks
-img: assets/img/2021-2.png
+img: assets/img/2021-2.jpeg
 importance: 2
 category: 2021 Season Hackathons
 ---
