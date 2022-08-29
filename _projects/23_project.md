@@ -2,7 +2,7 @@
 layout: page
 title: Character.io
 description: Generate a fresh set of characters with the power of GANs
-img: p1.png
+img: assets/img/p1.png
 importance: 1
 category: Launched + Open Source
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: PresentQuick
 description: Create instant presentations from Articles & Research Papers
-img: assets/img/p3.png
+img: assets/img/p3.jpg
 importance: 3
 category: Launched + Open Source
 ---
