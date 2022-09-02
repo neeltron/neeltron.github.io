@@ -1,7 +1,7 @@
 ---
 layout: page
 title: QuickSesh
-description: Generate a fresh set of characters with the power of GANs
+description: A free website to join/create random study sessions
 img: assets/img/p2.png
 importance: 2
 category: Launched + Open Source
