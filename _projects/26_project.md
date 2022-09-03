@@ -45,8 +45,6 @@ The hardware used for experimentation and testing is as follows:
     </li>
 </ul>    
 <br>
-
-
 The above hardware is recommended to run the setup in the best possible way, although the framework will work if there are minor deviations from the list.
 <br>
 <br>
