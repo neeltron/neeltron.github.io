@@ -56,6 +56,8 @@ Affiliation: <a href = "https://www.upes.ac.in">University of Petroleum and Ener
 Patent: <a href = "http://www.ipindia.nic.in/writereaddata/Portal/IPOJournal/1_4881_1/Part-1.pdf#page=55">http://www.ipindia.nic.in/writereaddata/Portal/IPOJournal/1_4881_1/Part-1.pdf#page=55 (Indian Patent Office, Page 55)</a>
 <br>
 <a href = "https://docs.google.com/document/d/141Y-3aGeRbx4TII0M3mubqBlE8sVryMnoJoITbpXJhA/edit?usp=sharing">Whitepaper</a>
+<br>
+Media: <a href = "https://www.themachinemaker.com/innovations/sanirobo-iot-enabled-solution-helps-in-sanitization">The Machine Maker</a>
 
 
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/bfZO2NFVPgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
