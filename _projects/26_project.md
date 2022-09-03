@@ -47,7 +47,6 @@ The hardware used for experimentation and testing is as follows:
 <br>
 The above hardware is recommended to run the setup in the best possible way, although the framework will work if there are minor deviations from the list.
 <br>
-<br>
 Project Advisors: <a href = "https://www.iiit.ac.in/people/faculty/Harikumar/">Dr. Harikumar Kandath</a> and <a href = "https://www.iiit.ac.in/people/faculty/mkrishna/">Dr. K. Madhava Krishna</a>
 <br>
 Affiliation: <a href = "https://iiit.ac.in">International Institute of Information Technology, Hyderabad</a>
