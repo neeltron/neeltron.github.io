@@ -48,6 +48,15 @@ The hardware used for experimentation and testing is as follows:
 
 
 The above hardware is recommended to run the setup in the best possible way, although the framework will work if there are minor deviations from the list.
+<br>
+<br>
+Project Advisors: <a href = "https://www.iiit.ac.in/people/faculty/Harikumar/">Dr. Harikumar Kandath</a> and <a href = "https://www.iiit.ac.in/people/faculty/mkrishna/">Dr. K. Madhava Krishna</a>
+<br>
+Affiliation: <a href = "https://iiit.ac.in">International Institute of Information Technology, Hyderabad</a>
+<br>
+Whitepaper: ... (arXiv)
+<br>
+Github: <a href = "https://github.com/jaskiratsingh2000/Research-UAVs-Safe-Landings">https://github.com/jaskiratsingh2000/Research-UAVs-Safe-Landings</a>
 
 
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/bfZO2NFVPgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
