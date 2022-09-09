@@ -11,7 +11,7 @@ Design/Build/Fly, or DBF, is a radio-controlled aircraft competition sponsored b
 
 The problem statement for DBF'22 was to design, build and test an aircraft to deliver vaccination components. Missions included deployment of the aircraft, staging of vaccination syringes, and delivery of environmentally sensitive vaccine vial packages.
 
-As a part of <a href = "https://instagram.com/teamagastya">Team Agastya</a>, my role was to work on the Design aspect of the aircraft and prepare the CAD Models, along with the drawings for the design report, which can be seen below. 
+As a part of <a href = "https://instagram.com/teamagastya">Team Agastya</a>, my role was to work on the Design aspect of the aircraft and prepare the CAD Models, along with the drawings for the design report, which can be seen below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -76,3 +76,17 @@ TL;DR We achieved 7th rank in the Proposal phase, while in the designed report p
 <div class="caption">
     Our aircraft (Lakshya) at the hangar.
 </div>
+
+The final team roster for the 2022 competition cycle was as follows:<br>
+Akansha Gupta<br>
+Yajat Vashisht<br>
+Neel Adwani<br>
+Nimit Berry<br>
+Prajot Gorkhe<br>
+Sanjana Chauhan<br>
+K. Jai Srihar<br>
+Dev Pathak<br>
+Shreya Benjamin<br>
+Rikitab Mondal<br>
+Ishan Chauhan<br>
+Anshuman Vashisth
