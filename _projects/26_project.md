@@ -51,7 +51,7 @@ Project Advisors: <a href = "https://www.iiit.ac.in/people/faculty/Harikumar/">D
 <br>
 Affiliation: <a href = "https://iiit.ac.in">International Institute of Information Technology, Hyderabad</a>
 <br>
-Whitepaper: ... (arXiv)
+Whitepaper: <a href = "https://arxiv.org/abs/2209.04805">https://arxiv.org/abs/2209.04805 (arXiv)</a>
 <br>
 Github: <a href = "https://github.com/jaskiratsingh2000/Research-UAVs-Safe-Landings">https://github.com/jaskiratsingh2000/Research-UAVs-Safe-Landings</a>
 
