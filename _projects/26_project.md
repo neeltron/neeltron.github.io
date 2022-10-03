@@ -1,7 +1,7 @@
 ---
 layout: page
-title: EyeLand
-description: Real-Time Heuristic Framework for Safe Landing of UAVs in Dynamic Scenarios
+title: Safe Landing of UAVs
+description: Real-Time Heuristic Framework for Safe Landing in Dynamic Scenarios
 img: assets/img/r2.jpeg
 importance: 2
 category: Research
